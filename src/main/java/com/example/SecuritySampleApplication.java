@@ -9,4 +9,7 @@ public class SecuritySampleApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SecuritySampleApplication.class, args);
 	}
+	
+	
 }
+
